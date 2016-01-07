@@ -34,7 +34,7 @@
         android:visibility="invisible"
         app:backgroundTint="@color/colorFAB2"
         app:elevation="6dp"
-        app:pressedTranslationZ="12dp"
+        app:pressedTranslationZ="40dp"
         android:src="@drawable/ic_done" />
     <android.support.design.widget.FloatingActionButton
         android:id="@+id/fab1"
@@ -46,7 +46,7 @@
         android:visibility="invisible"
         app:elevation="6dp"
         app:backgroundTint="@color/colorFAB1"
-        app:pressedTranslationZ="12dp"
+        app:pressedTranslationZ="40dp"
         android:src="@drawable/ic_message" />
     <android.support.design.widget.FloatingActionButton
         android:id="@+id/fab"
@@ -55,7 +55,7 @@
         android:layout_gravity="bottom|end"
         app:elevation="6dp"
         app:backgroundTint="@color/colorAccent"
-        app:pressedTranslationZ="12dp"
+        app:pressedTranslationZ="40dp"
         android:layout_margin="@dimen/fab_margin"
         android:src="@drawable/ic_add" />
 
